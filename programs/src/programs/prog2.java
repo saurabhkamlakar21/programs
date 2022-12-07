@@ -15,7 +15,14 @@ public class prog2 {
 		
 		byte byteMax=127;
 		byte byteMin=-127;
+		System.out.println(max);
+		System.out.println(min);
+		System.out.println(shortMax);
+		System.out.println(shortMin);
 		System.out.println(longMax);
+		System.out.println(longMin);
+		System.out.println(byteMax);
+		System.out.println(byteMin);
 		
 
 	}
